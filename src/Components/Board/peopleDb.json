@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "title": "Mother of Dragons",
+    "Name": "Daenerys Targaryen",
+    "family": "House Targaryen",
+    "Army": 100000,
+    "Gold": 55505,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Oberyn Martell",
+    "Name": "Red Viper of Dorne",
+    "family": "Viper",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/red-viper.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Lord of Dragonstone",
+    "Name": "Stannis Baratheon",
+    "family": "House Baratheon",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Lord of Winterfell",
+    "Name": "Ned Stark",
+    "family": "House Stark",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Lord of Winterfell",
+    "Name": "Ned Stark",
+    "family": "House Stark",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Lord of Dreadfort",
+    "Name": "Roose Bolton",
+    "family": "Bolton",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Lord of Dreadfort",
+    "Name": "Roose Bolton",
+    "family": "Bolton",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Lord Paramount of Westerlands",
+    "Name": "Tywin Lannister",
+    "family": "Lannister",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Queen of Thorns",
+    "Name": "Olenna Tyrell",
+    "family": "Tyrell",
+    "Army": 4444,
+    "Gold": 5555,
+    "region": "aggdfj",
+    "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg"
+  }
+]

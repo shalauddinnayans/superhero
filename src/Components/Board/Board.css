@@ -1,0 +1,9 @@
+.board-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.mans-container {
+  border-right: 1px solid red;
+  margin-right: 5px;
+  margin-left: 20px;
+}
