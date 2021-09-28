@@ -1,0 +1,11 @@
+.selected-item {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  border: 1px solid lawngreen;
+  border-radius: 5px;
+  padding: 1px;
+}
+.selected-item img {
+  width: 100%;
+  margin: 10px;
+}
