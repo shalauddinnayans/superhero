@@ -10,7 +10,7 @@ const Card = (props) => {
       <div className="card h-100">
         <img src={imageUrl} className="img-sizeing card-img-top" alt="..." />
         <div className="card-body">
-          <h5 className="card-title cart-title-tex">{title}</h5>
+          <h5 className="card-title cart-title-text">{title}</h5>
           <div className="card-text">
             <h6>Name: {name}</h6>
             <h6>Family: {family}</h6>
@@ -21,9 +21,10 @@ const Card = (props) => {
         </div>
         <button
           onClick={() => props.handleAddCart(props.person)}
-          className="btn-redguler"
+          className="btn btn-primary"
+          type="button"
         >
-          <FontAwesomeIcon icon={faShoppingCart} /> Add to cart
+          <FontAwesomeIcon icon={faShoppingCart} /> Make Ally
         </button>
       </div>
     </div>

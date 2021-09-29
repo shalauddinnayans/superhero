@@ -76,7 +76,7 @@
     "family": "Lannister",
     "army": 4444,
     "gold": 5555,
-    "region": "aggdfj",
+    "region": "Casterly Rock",
     "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "family": "Tyrell",
     "army": 4444,
     "gold": 5555,
-    "region": "aggdfj",
+    "region": "highgarden",
     "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg"
   }
 ]

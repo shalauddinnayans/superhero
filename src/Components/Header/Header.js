@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header">
       <h1>Mission to Iron Throne</h1>
-      <h4>Make your allay</h4>
+      <h4>Make your Allies</h4>
     </div>
   );
 };

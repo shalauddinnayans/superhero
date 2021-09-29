@@ -30,7 +30,6 @@ const Board = () => {
         ))}
       </div>
       <div className="cart-container">
-        <h1>hello world</h1>
         <Cart cart={cart}></Cart>
       </div>
     </div>

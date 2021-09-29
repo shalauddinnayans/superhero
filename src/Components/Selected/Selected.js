@@ -8,7 +8,7 @@ const Selected = (props) => {
       <div>
         <img src={imageUrl} alt="" />
       </div>
-      <div>
+      <div className="select-text">
         <h4>{title}</h4>
         <p>
           <small>Army: {army}</small> <small>Region: {region}</small>
